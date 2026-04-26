@@ -7,7 +7,7 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = "6282144603278";
+    const phoneNumber = "+6281991618323";
     const message = "Halo Santara, saya ingin memesan produk.";
     const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(url, '_blank');

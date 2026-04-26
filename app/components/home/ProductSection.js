@@ -68,7 +68,7 @@ const ProductDetailModal = ({ product, onClose }) => {
           </p>
           <p className="text-3xl md:text-4xl font-black text-[#FBBF24] mb-8">{product.price}</p>
           <button 
-            onClick={() => window.open(`https://wa.me/6282144603278?text=Halo Santara, saya tertarik: ${product.name}`, '_blank')}
+            onClick={() => window.open(`https://wa.me/+6281991618323?text=Halo Santara, saya tertarik: ${product.name}`, '_blank')}
             className="w-full bg-gradient-to-r from-[#8B5CF6] to-[#6366F1] text-white py-4 md:py-5 rounded-2xl font-black text-[10px] tracking-[0.2em] uppercase">
             Pesan via WhatsApp
           </button>
