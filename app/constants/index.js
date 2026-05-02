@@ -116,7 +116,7 @@ export const NFC_PRODUCTS = [
     name: 'Santara NFC Classic',
     images: ['/santara-lamp.jpeg', '/santara-detail1.jpeg', '/santara-detail2.jpeg'], 
     type: 'Limited Edition',
-    price: 'Rp 70.000'
+    price: 'Rp 59.000'
   },
   {
     id: 2,
@@ -130,7 +130,14 @@ export const NFC_PRODUCTS = [
     name: 'Santara NFC Custom',
     images: ['/santara3.jpeg', '/santara-custom1.jpeg', '/santara-custom2.jpeg'],
     type: 'Kustomisasi Produk',
-    price: 'Rp 70.000'
+    price: 'Rp 59.000'
+  },
+  {
+    id: 4,
+    name: 'Santara NFC Pro Edition',
+    images: ['/santara-card.jpeg', '/santara-pro-detail.jpeg'], 
+    type: 'Premium Series',
+    price: 'Rp 79.000'
   }
 ];
 
@@ -154,7 +161,7 @@ export const SANTARA_EVENTS = [
 export const TEAM_MEMBERS = [
   {
     id: 1,
-    name: "Lutfy prayoga",
+    name: "Lutfi prasetyo",
     role: "CEO",
     tagline: "Turning simple ideas into meaningful impact",
     image: "/CEO.png", // Sesuaikan path gambar
@@ -175,7 +182,7 @@ export const TEAM_MEMBERS = [
   },
   {
     id: 4,
-    name: "Farrel.",
+    name: "Farrel Nazwa Diaz Ersyad",
     role: "Hipster",
     tagline: "Design that connects",
     image: "/Hipster2.png",
