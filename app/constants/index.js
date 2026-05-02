@@ -137,7 +137,7 @@ export const NFC_PRODUCTS = [
     name: 'Santara NFC Pro Edition',
     images: ['/santara-card.jpeg', '/santara-pro-detail.jpeg'], 
     type: 'Premium Series',
-    price: 'Rp 79.000'
+    price: 'Rp 59.000'
   }
 ];
 

@@ -169,7 +169,7 @@ export default function ProductSection() {
                 >
                   <h3 className="text-xl md:text-2xl font-bold text-white mb-4">Koleksi Bermanfaat Lainnya</h3>
                   <p className="text-gray-400 text-sm md:text-base leading-relaxed">
-                    Jelajahi produk unggulan kami lainnya yang tak kalah inovatif. Setiap produk dirancang untuk memberikan solusi cerdas bagi kebutuhan digital harian Anda.
+                    Jelajahi produk unggulan lainnya yang tak kalah inovatif. Setiap produk dirancang untuk memberikan solusi cerdas bagi kebutuhan digital harian Anda.
                   </p>
                   <div className="flex justify-center gap-1.5 mt-6">
                     <div className="w-1.5 h-1.5 rounded-full bg-[#8B5CF6]/30"></div>
